@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<style>
+    body{
+   background-image:url('https://img.starbiz.com/share/1200x628/2020/01/23/1401338-d0f5.jpg');
+   background-repeat:no repreat;
+   background-size:cover;
+   }
+   </style>
+   <a href="https://www.talentio.in/"target="_blank">click here</a>
+   <u1>
+      <li>bhuvana</li>
+      <li>yadav</li>
+      <li>chatti</li>
+      <li>pure hearted</li>
+   </u1>
+   <ol>
+      <li>bhuvana</li>
+      <li>yadav</li>
+      <li>chatti</li>
+      <li>pure hearted</li>
+   </ol>
+   </html>
